@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>image/wall.jpg</file>
+        <file>image/Load.png</file>
+        <file>image/Wall.png</file>
+        <file>image/down1.png</file>
+        <file>image/down2.png</file>
+        <file>image/down3.png</file>
+        <file>image/left1.png</file>
+        <file>image/left2.png</file>
+        <file>image/left3.png</file>
+        <file>image/right1.png</file>
+        <file>image/right2.png</file>
+        <file>image/right3.png</file>
+        <file>image/up1.png</file>
+        <file>image/up2.png</file>
+        <file>image/up3.png</file>
+        <file>image/button1.png</file>
+        <file>image/button2.png</file>
+        <file>image/button3.png</file>
+        <file>image/playbutton.png</file>
+        <file>image/startPage.jpg</file>
+        <file>image/playbutton1.png</file>
+        <file>image/loading.gif</file>
+        <file>image/button4.png</file>
+        <file>image/box.png</file>
+        <file>image/fengmian.jpg</file>
+        <file>image/liangc.gif</file>
+        <file>image/Wall.jpg</file>
+    </qresource>
+</RCC>
